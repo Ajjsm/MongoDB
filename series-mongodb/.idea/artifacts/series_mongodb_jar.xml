@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="series-mongodb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/series_mongodb_jar</output-path>
+    <root id="archive" name="series-mongodb.jar">
+      <element id="module-output" name="series-mongodb" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jgoodies-forms-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jgoodies-common-1.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mongo-java-driver-3.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
