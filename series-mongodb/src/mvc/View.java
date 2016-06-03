@@ -1,15 +1,18 @@
 package mvc;
 
 import com.toedter.calendar.JCalendar;
+import sesion.Iniciar;
 
 import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 /**
  * Created by Juanaj on 26/02/2016.
  */
 public class View {
-    private JTabbedPane tabbedPane1;
-    public JPanel panel1;
+    public JTabbedPane tabbedPane1;
+
     public JTextField tfNombre_personaje;
     public JTextField tfPersonalidad_personaje;
     public JTextField tfNivel_personaje;
@@ -39,7 +42,6 @@ public class View {
     public JCalendar jcNacimiento;
 
     public JList listaCapitulos;
-    public JPanel listaPersonajes;
     public JList listaSerie;
     public JComboBox cbSeries;
     public JButton bt_buscarpersonaje;
@@ -48,6 +50,15 @@ public class View {
     public JTextField tf_buscarcapitulo;
     public JButton bt_vertodo;
     public JButton bt_vertodoscapitulo;
+    public JButton bt_salir_inicio;
+    public JButton bt_iniciar_inicio;
+    JFrame jFrame;
+
+    public JPanel panel1;
+    private JPanel jp_inicio;
+    private JPanel jp_capitulos;
+    private JPanel jp_series;
+    private JPanel jp_personajes;
 
     public DefaultListModel dlm_serie;
     public DefaultListModel dlm_capitulo;
@@ -56,13 +67,29 @@ public class View {
     public View(){
         getFrame();
         initModels();
+        enableTabs();
+
+        bt_iniciar_inicio.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                Iniciar iniciar = new Iniciar();
+                jFrame.setVisible(false);
+
+            }
+        });
+        bt_salir_inicio.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                System.exit(0);
+            }
+        });
     }
 
     private JFrame getFrame() {
-        JFrame jFrame = new JFrame();
+        jFrame= new JFrame();
         jFrame.setContentPane(panel1);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        jFrame.setTitle("**TRABAJO MONGODB**");
+        jFrame.setTitle("ALMACEN SERIES");
         jFrame.pack();
         jFrame.setLocationRelativeTo(null);
         jFrame.setVisible(true);
@@ -81,8 +108,12 @@ public class View {
 
     }
 
+    private void enableTabs(){
+        tabbedPane1.setEnabledAt(1, false);
+        tabbedPane1.setEnabledAt(2, false);
+        tabbedPane1.setEnabledAt(3, false);
 
-
+    }
 
 
 }

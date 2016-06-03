@@ -3,10 +3,7 @@ package mvc;
 import base.Capitulos;
 import base.Personajes;
 import base.Series;
-import org.bson.Document;
-import sun.util.resources.pt.CalendarData_pt;
-
-import javax.print.Doc;
+import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import java.awt.event.ActionEvent;
@@ -49,6 +46,8 @@ public class Control {
         listarPersonajes();
         listarCapitulos();
         listarSeries();
+
+        estadoModel();
 
         view.btNuevo_personaje.addActionListener(new ActionListener() {
             @Override
@@ -183,26 +182,59 @@ public class Control {
             @Override
             public void actionPerformed(ActionEvent e) {
                 personajes = (Personajes) view.listaPersonaje.getSelectedValue();
-                model.eliminarPersonaje(personajes.getNombre());
-                listarPersonajes();
-                rellenarComboPersonajes();
+                JDialog.setDefaultLookAndFeelDecorated(true);
+                int respuesta = JOptionPane.showConfirmDialog(null, "Estas seguro de querer eliminar?", "Confirmar",
+                        JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+                if (respuesta == JOptionPane.NO_OPTION){
+                    System.out.println("Has elejido NO");
+                    return;
+                } else if (respuesta == JOptionPane.YES_OPTION){
+                    model.eliminarPersonaje(personajes.getNombre());
+                    listarPersonajes();
+                    rellenarComboPersonajes();
+                    System.out.println("Has elejido SI");
+                } else if (respuesta == JOptionPane.CLOSED_OPTION){
+                    System.out.println("Has cerrado la ventana de confirmacion");
+                }
             }
         });
         view.btEliminar_capitulo.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 capitulos = (Capitulos) view.listaCapitulos.getSelectedValue();
-                model.eliminarCapitulo(capitulos.getTitulo());
-                listarCapitulos();
+                JDialog.setDefaultLookAndFeelDecorated(true);
+                int respuesta = JOptionPane.showConfirmDialog(null, "Estas seguro de querer eliminar?", "Confirmar",
+                        JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+                if (respuesta == JOptionPane.NO_OPTION){
+                    System.out.println("Has elejido NO");
+                    return;
+                } else if (respuesta == JOptionPane.YES_OPTION){
+                    capitulos = (Capitulos) view.listaCapitulos.getSelectedValue();
+                    model.eliminarCapitulo(capitulos.getTitulo());
+                    listarCapitulos();
+                } else if (respuesta == JOptionPane.CLOSED_OPTION){
+                    System.out.println("Has cerrado la ventana de confirmacion");
+                }
             }
         });
         view.btEliminar_serie.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 series = (Series) view.listaSerie.getSelectedValue();
-                model.eliminarSerie(series.getNombre());
-                listarSeries();
-                rellenarComboPersonajes();
+                JDialog.setDefaultLookAndFeelDecorated(true);
+                int respuesta = JOptionPane.showConfirmDialog(null, "Estas seguro de querer eliminar?", "Confirmar",
+                        JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+                if (respuesta == JOptionPane.NO_OPTION){
+                    System.out.println("Has elejido NO");
+                    return;
+                } else if (respuesta == JOptionPane.YES_OPTION) {
+
+                    model.eliminarSerie(series.getNombre());
+                    listarSeries();
+                    rellenarComboPersonajes();
+                } else if (respuesta == JOptionPane.CLOSED_OPTION){
+                    System.out.println("Has cerrado la ventana de confirmacion");
+                }
             }
         });
 
@@ -256,7 +288,6 @@ public class Control {
                 listarPersonajes();
             }
         });
-
         view.bt_vertodoscapitulo.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -395,4 +426,20 @@ public class Control {
         }
     }
 
+    private void estadoModel(){
+        if (view.listaCapitulos.getModel().getSize() == 0){
+            System.out.println("El model de capitulos esta vacio");
+            view.btEliminar_capitulo.setEnabled(false);
+        }
+
+        if (view.listaPersonaje.getModel().getSize() == 0){
+            System.out.println("El model de personajes esta vacio");
+            view.btEliminar_personaje.setEnabled(false);
+        }
+
+        if (view.listaSerie.getModel().getSize() == 0){
+            System.out.println("El model de series esta vacio");
+            view.btEliminar_serie.setEnabled(false);
+        }
+    }
 }

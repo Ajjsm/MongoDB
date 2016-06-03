@@ -12,7 +12,44 @@
         <properties/>
         <border type="none"/>
         <children>
-          <grid id="d3a03" binding="listaPersonajes" layout-manager="FormLayout">
+          <grid id="bf7ae" binding="jp_inicio" layout-manager="FormLayout">
+            <rowspec value="center:max(d;4px):noGrow"/>
+            <rowspec value="top:102dlu:noGrow"/>
+            <rowspec value="center:max(d;4px):noGrow"/>
+            <rowspec value="top:4dlu:noGrow"/>
+            <rowspec value="center:max(d;4px):noGrow"/>
+            <colspec value="fill:max(d;4px):noGrow"/>
+            <colspec value="left:59dlu:noGrow"/>
+            <colspec value="fill:280px:noGrow"/>
+            <colspec value="left:21dlu:noGrow"/>
+            <colspec value="fill:max(d;4px):noGrow"/>
+            <constraints>
+              <tabbedpane title="Inicio sesion"/>
+            </constraints>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="ce795" class="javax.swing.JButton" binding="bt_salir_inicio">
+                <constraints>
+                  <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties>
+                  <text value="Salir"/>
+                </properties>
+              </component>
+              <component id="64500" class="javax.swing.JButton" binding="bt_iniciar_inicio">
+                <constraints>
+                  <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+                  <forms/>
+                </constraints>
+                <properties>
+                  <text value="Iniciar sesion"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="d3a03" binding="jp_personajes" layout-manager="FormLayout">
             <rowspec value="center:max(d;4px):noGrow"/>
             <rowspec value="top:4dlu:noGrow"/>
             <rowspec value="center:d:noGrow"/>
@@ -197,7 +234,7 @@
               </component>
             </children>
           </grid>
-          <grid id="2d124" layout-manager="FormLayout">
+          <grid id="2d124" binding="jp_capitulos" layout-manager="FormLayout">
             <rowspec value="center:max(d;4px):noGrow"/>
             <rowspec value="top:4dlu:noGrow"/>
             <rowspec value="center:25px:noGrow"/>
@@ -399,7 +436,7 @@
               </component>
             </children>
           </grid>
-          <grid id="40c70" layout-manager="FormLayout">
+          <grid id="40c70" binding="jp_series" layout-manager="FormLayout">
             <rowspec value="center:max(d;4px):noGrow"/>
             <rowspec value="top:4dlu:noGrow"/>
             <rowspec value="center:d:noGrow"/>

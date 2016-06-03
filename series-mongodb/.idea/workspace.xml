@@ -34,29 +34,42 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="52" column="82" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="82" />
               <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#365#366#0" expanded="false" />
-                <element signature="e#390#391#0" expanded="false" />
-                <element signature="e#427#428#0" expanded="false" />
-                <element signature="e#455#456#0" expanded="false" />
-                <element signature="e#487#488#0" expanded="false" />
-                <element signature="e#516#517#0" expanded="false" />
-                <element signature="e#559#560#0" expanded="false" />
-                <element signature="e#595#596#0" expanded="false" />
-                <element signature="e#633#634#0" expanded="false" />
-                <element signature="e#668#669#0" expanded="false" />
-                <element signature="e#723#724#0" expanded="false" />
-                <element signature="e#771#772#0" expanded="false" />
-                <element signature="e#799#800#0" expanded="false" />
-                <element signature="e#827#828#0" expanded="false" />
-                <element signature="e#865#866#0" expanded="false" />
-                <element signature="e#899#900#0" expanded="false" />
-                <element signature="e#933#934#0" expanded="false" />
-                <element signature="e#966#967#0" expanded="false" />
-                <element signature="e#1015#1016#0" expanded="false" />
-                <element signature="e#1059#1060#0" expanded="false" />
-                <element signature="e#1101#1102#0" expanded="false" />
-                <element signature="e#1133#1134#0" expanded="false" />
+                <element signature="e#1164#1165#0" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Control.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mvc/Control.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-62.724136">
+              <caret line="405" column="36" selection-start-line="405" selection-start-column="31" selection-end-line="405" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#1290:1670" expanded="false" />
+                <element signature="class#1725:2107" expanded="false" />
+                <element signature="class#2159:2519" expanded="false" />
+                <element signature="class#2584:2801" expanded="false" />
+                <element signature="class#2860:3075" expanded="false" />
+                <element signature="class#3131:3340" expanded="false" />
+                <element signature="class#3396:4354" expanded="false" />
+                <element signature="class#4408:5414" expanded="false" />
+                <element signature="class#5465:6342" expanded="false" />
+                <element signature="class#6402:7456" expanded="false" />
+                <element signature="class#7514:8542" expanded="false" />
+                <element signature="class#8597:9571" expanded="false" />
+                <element signature="class#9632:9964" expanded="false" />
+                <element signature="class#10024:10352" expanded="false" />
+                <element signature="class#10408:10724" expanded="false" />
+                <element signature="class#11149:11338" expanded="false" />
+                <element signature="class#11388:11545" expanded="false" />
+                <element signature="class#11603:11759" expanded="false" />
+                <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
+                <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
+                <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
+                <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -66,18 +79,14 @@
         <entry file="file://$PROJECT_DIR$/src/mvc/Model.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#conectar#0;class#Model#0" expanded="false" />
                 <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
                 <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
                 <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-                <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
                 <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
                 <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-                <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-                <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
                 <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
                 <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
                 <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -85,43 +94,6 @@
                 <element signature="method#getPersonajes#0;class#Model#0" expanded="false" />
                 <element signature="method#getCapitulos#0;class#Model#0" expanded="false" />
                 <element signature="method#getSeries#0;class#Model#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Control.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mvc/Control.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#1341:1721" expanded="false" />
-                <element signature="class#1776:2158" expanded="false" />
-                <element signature="class#2210:2570" expanded="false" />
-                <element signature="class#2635:2852" expanded="false" />
-                <element signature="class#2911:3126" expanded="false" />
-                <element signature="class#3182:3391" expanded="false" />
-                <element signature="class#3447:4405" expanded="false" />
-                <element signature="class#4459:5465" expanded="false" />
-                <element signature="class#5516:6393" expanded="false" />
-                <element signature="class#6453:6800" expanded="false" />
-                <element signature="class#6858:7157" expanded="false" />
-                <element signature="class#7212:7535" expanded="false" />
-                <element signature="class#7596:7928" expanded="false" />
-                <element signature="class#7988:8316" expanded="false" />
-                <element signature="class#8372:8688" expanded="false" />
-                <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-                <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-                <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
-                <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
-                <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
-                <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-                <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-                <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-                <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-                <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -142,31 +114,76 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#359#360#0" expanded="false" />
+                <element signature="e#384#385#0" expanded="false" />
+                <element signature="e#421#422#0" expanded="false" />
+                <element signature="e#449#450#0" expanded="false" />
+                <element signature="e#481#482#0" expanded="false" />
+                <element signature="e#510#511#0" expanded="false" />
+                <element signature="e#553#554#0" expanded="false" />
+                <element signature="e#589#590#0" expanded="false" />
+                <element signature="e#621#622#0" expanded="false" />
+                <element signature="e#650#651#0" expanded="false" />
+                <element signature="e#693#694#0" expanded="false" />
+                <element signature="e#729#730#0" expanded="false" />
+                <element signature="e#762#763#0" expanded="false" />
+                <element signature="e#795#796#0" expanded="false" />
+                <element signature="e#843#844#0" expanded="false" />
+                <element signature="e#887#888#0" expanded="false" />
+                <element signature="e#923#924#0" expanded="false" />
+                <element signature="e#958#959#0" expanded="false" />
+                <element signature="e#1011#1012#0" expanded="false" />
+                <element signature="e#1059#1060#0" expanded="false" />
+                <element signature="e#1101#1102#0" expanded="false" />
+                <element signature="e#1133#1134#0" expanded="false" />
+                <element signature="e#1164#1165#0" expanded="false" />
+                <element signature="e#1193#1194#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="View.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mvc/View.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="View.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mvc/View.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5696767">
-              <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#View#0;class#View#0" expanded="false" />
-                <element signature="method#getFrame#0;class#View#0" expanded="false" />
-                <element signature="method#initModels#0;class#View#0" expanded="false" />
+                <element signature="class#2345:2498" expanded="false" />
+                <element signature="e#2441#2442#0" expanded="true" />
+                <element signature="e#2487#2488#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Iniciar.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sesion/Iniciar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4831081">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,9 +221,10 @@
         <option value="$PROJECT_DIR$/src/mvc/Model.java" />
         <option value="$PROJECT_DIR$/src/base/Personajes.java" />
         <option value="$PROJECT_DIR$/src/base/Capitulos.java" />
+        <option value="$PROJECT_DIR$/src/mvc/Control.java" />
         <option value="$PROJECT_DIR$/src/mvc/View.form" />
         <option value="$PROJECT_DIR$/src/mvc/View.java" />
-        <option value="$PROJECT_DIR$/src/mvc/Control.java" />
+        <option value="$PROJECT_DIR$/src/sesion/Iniciar.java" />
       </list>
     </option>
   </component>
@@ -246,9 +264,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -295,7 +311,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mvc" />
+              <option name="myItemId" value="sesion" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -313,7 +329,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
+              <option name="myItemId" value="mvc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,6 +349,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,6 +363,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="352" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -621,6 +640,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6db3d55e-fca3-49f2-ad33-0ee7bcd18c95" name="Default" comment="" />
@@ -636,49 +658,58 @@
       <workItem from="1457350057961" duration="916000" />
       <workItem from="1457351633170" duration="1158000" />
       <workItem from="1464956665099" duration="1522000" />
-      <workItem from="1464970554517" duration="7000" />
+      <workItem from="1464970554517" duration="3380000" />
+      <workItem from="1464976768426" duration="6038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17221000" />
+    <option name="totallyTimeSpent" value="26632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13326226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13326226" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="32" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -687,63 +718,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mvc/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
-            <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
-            <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
-            <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
-            <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
-            <element signature="method#getListaSeries#0;class#Model#0" expanded="false" />
-            <element signature="method#getPersonajes#0;class#Model#0" expanded="false" />
-            <element signature="method#getCapitulos#0;class#Model#0" expanded="false" />
-            <element signature="method#getSeries#0;class#Model#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mvc/Control.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
             <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
             <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
             <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -762,9 +764,9 @@
           <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -773,7 +775,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -787,29 +815,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#865#866#0" expanded="false" />
-            <element signature="e#899#900#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#966#967#0" expanded="false" />
-            <element signature="e#1015#1016#0" expanded="false" />
-            <element signature="e#1059#1060#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -820,15 +827,11 @@
           <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
             <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
             <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
             <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -846,31 +849,28 @@
           <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
             <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
             <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
             <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -889,9 +889,9 @@
           <caret line="42" column="27" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -900,7 +900,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -909,29 +935,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#865#866#0" expanded="false" />
-            <element signature="e#899#900#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#966#967#0" expanded="false" />
-            <element signature="e#1015#1016#0" expanded="false" />
-            <element signature="e#1059#1060#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -942,15 +947,11 @@
           <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
             <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
             <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
             <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -968,31 +969,28 @@
           <caret line="235" column="0" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
             <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
             <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
             <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1011,9 +1009,9 @@
           <caret line="42" column="27" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1022,7 +1020,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1031,29 +1055,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#865#866#0" expanded="false" />
-            <element signature="e#899#900#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#966#967#0" expanded="false" />
-            <element signature="e#1015#1016#0" expanded="false" />
-            <element signature="e#1059#1060#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1064,15 +1067,11 @@
           <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
             <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
             <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
             <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -1090,31 +1089,28 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
             <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
             <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
             <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1133,9 +1129,9 @@
           <caret line="42" column="27" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1144,7 +1140,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1153,29 +1175,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#865#866#0" expanded="false" />
-            <element signature="e#899#900#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#966#967#0" expanded="false" />
-            <element signature="e#1015#1016#0" expanded="false" />
-            <element signature="e#1059#1060#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1186,15 +1187,11 @@
           <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
             <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
             <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
             <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -1212,31 +1209,28 @@
           <caret line="155" column="14" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
             <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
             <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
             <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1255,9 +1249,9 @@
           <caret line="42" column="27" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1266,7 +1260,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1275,29 +1295,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#865#866#0" expanded="false" />
-            <element signature="e#899#900#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#966#967#0" expanded="false" />
-            <element signature="e#1015#1016#0" expanded="false" />
-            <element signature="e#1059#1060#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1308,15 +1307,11 @@
           <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
             <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
             <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
             <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -1334,31 +1329,28 @@
           <caret line="155" column="14" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
             <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
             <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
             <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1377,9 +1369,9 @@
           <caret line="42" column="27" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1388,7 +1380,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1397,29 +1415,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#865#866#0" expanded="false" />
-            <element signature="e#899#900#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#966#967#0" expanded="false" />
-            <element signature="e#1015#1016#0" expanded="false" />
-            <element signature="e#1059#1060#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1430,15 +1427,11 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
             <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
             <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
             <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -1456,31 +1449,28 @@
           <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
             <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
             <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
             <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1499,9 +1489,9 @@
           <caret line="42" column="27" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1510,14 +1500,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48825064">
-          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1525,25 +1534,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33159268">
           <caret line="2086" column="16" selection-start-line="2086" selection-start-column="16" selection-end-line="2086" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvc/View.form">
-      <provider editor-type-id="ui-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/base/Capitulos.java">
+    <entry file="file://$PROJECT_DIR$/src/base/Series.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="139" selection-start-line="58" selection-start-column="139" selection-end-line="58" selection-end-column="139" />
-          <folding />
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#384#385#0" expanded="false" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#481#482#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#553#554#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#693#694#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#795#796#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
+            <element signature="e#887#888#0" expanded="false" />
+            <element signature="e#923#924#0" expanded="false" />
+            <element signature="e#958#959#0" expanded="false" />
+            <element signature="e#1011#1012#0" expanded="false" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+            <element signature="e#1133#1134#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1552,72 +1577,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="52" column="82" selection-start-line="52" selection-start-column="82" selection-end-line="52" selection-end-column="82" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#365#366#0" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#427#428#0" expanded="false" />
-            <element signature="e#455#456#0" expanded="false" />
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#516#517#0" expanded="false" />
-            <element signature="e#559#560#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#633#634#0" expanded="false" />
-            <element signature="e#668#669#0" expanded="false" />
-            <element signature="e#723#724#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#799#800#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-            <element signature="e#865#866#0" expanded="false" />
-            <element signature="e#899#900#0" expanded="false" />
-            <element signature="e#933#934#0" expanded="false" />
-            <element signature="e#966#967#0" expanded="false" />
-            <element signature="e#1015#1016#0" expanded="false" />
-            <element signature="e#1059#1060#0" expanded="false" />
-            <element signature="e#1101#1102#0" expanded="false" />
-            <element signature="e#1133#1134#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/base/Series.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvc/Control.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#1341:1721" expanded="false" />
-            <element signature="class#1776:2158" expanded="false" />
-            <element signature="class#2210:2570" expanded="false" />
-            <element signature="class#2635:2852" expanded="false" />
-            <element signature="class#2911:3126" expanded="false" />
-            <element signature="class#3182:3391" expanded="false" />
-            <element signature="class#3447:4405" expanded="false" />
-            <element signature="class#4459:5465" expanded="false" />
-            <element signature="class#5516:6393" expanded="false" />
-            <element signature="class#6453:6800" expanded="false" />
-            <element signature="class#6858:7157" expanded="false" />
-            <element signature="class#7212:7535" expanded="false" />
-            <element signature="class#7596:7928" expanded="false" />
-            <element signature="class#7988:8316" expanded="false" />
-            <element signature="class#8372:8688" expanded="false" />
-            <element signature="method#listarPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#listarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#listarSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
-            <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboPersonajes#0;class#Control#0" expanded="false" />
-            <element signature="method#rellenarComboSeries#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarpersonaje#0;class#Control#0" expanded="false" />
-            <element signature="method#buscarCapitulo#0;class#Control#0" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1625,18 +1586,14 @@
     <entry file="file://$PROJECT_DIR$/src/mvc/Model.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="77" column="55" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#conectar#0;class#Model#0" expanded="false" />
             <element signature="method#altaPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#altaCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#altaSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#eliminarPersonaje#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#eliminarSerie#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarPersonaje#0;class#Model#0" expanded="false" />
-            <element signature="method#modificarCapitulo#0;class#Model#0" expanded="false" />
             <element signature="method#modificarSeries#0;class#Model#0" expanded="false" />
             <element signature="method#getListaPersonajes#0;class#Model#0" expanded="false" />
             <element signature="method#getListaCapitulos#0;class#Model#0" expanded="false" />
@@ -1648,15 +1605,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mvc/View.java">
+    <entry file="file://$PROJECT_DIR$/src/base/Capitulos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5696767">
-          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="58" column="139" selection-start-line="58" selection-start-column="139" selection-end-line="58" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mvc/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-62.724136">
+          <caret line="405" column="36" selection-start-line="405" selection-start-column="31" selection-end-line="405" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#View#0;class#View#0" expanded="false" />
-            <element signature="method#getFrame#0;class#View#0" expanded="false" />
-            <element signature="method#initModels#0;class#View#0" expanded="false" />
+            <element signature="class#1290:1670" expanded="false" />
+            <element signature="class#1725:2107" expanded="false" />
+            <element signature="class#2159:2519" expanded="false" />
+            <element signature="class#2584:2801" expanded="false" />
+            <element signature="class#2860:3075" expanded="false" />
+            <element signature="class#3131:3340" expanded="false" />
+            <element signature="class#3396:4354" expanded="false" />
+            <element signature="class#4408:5414" expanded="false" />
+            <element signature="class#5465:6342" expanded="false" />
+            <element signature="class#6402:7456" expanded="false" />
+            <element signature="class#7514:8542" expanded="false" />
+            <element signature="class#8597:9571" expanded="false" />
+            <element signature="class#9632:9964" expanded="false" />
+            <element signature="class#10024:10352" expanded="false" />
+            <element signature="class#10408:10724" expanded="false" />
+            <element signature="class#11149:11338" expanded="false" />
+            <element signature="class#11388:11545" expanded="false" />
+            <element signature="class#11603:11759" expanded="false" />
+            <element signature="method#cargarPersonaes#0;class#Control#0" expanded="false" />
+            <element signature="method#cargarSeries#0;class#Control#0" expanded="false" />
+            <element signature="method#cargarCapitulos#0;class#Control#0" expanded="false" />
+            <element signature="method#estadoModel#0;class#Control#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mvc/View.form">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mvc/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#2345:2498" expanded="false" />
+            <element signature="e#2441#2442#0" expanded="true" />
+            <element signature="e#2487#2488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sesion/Iniciar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4831081">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
